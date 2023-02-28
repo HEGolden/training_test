@@ -7,3 +7,5 @@ learning objectives for lesson:
 - Demonstrate GitHub repo creation
 - practice commit
 - access repo in R Studio
+
+making changes
